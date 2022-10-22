@@ -9,6 +9,7 @@ int main()
       printf("\nEnter Second Number : ");
       scanf("%d",&num2);
       div=num1/num2;
+        printf("\nDivision of %d & %d is = %d",num1,num2,div);
       printf("\nDivision of %d & %d is = %d",num1,num2,div);
       return 0;
 }
